@@ -10,3 +10,6 @@
 - Hi, I’m @NobleLip.
 - I’m interested in everything that involves programing!
 - I’m currently learning Javascript and C#.
+
+## Repository Counter
+![Counter](https://github.com/NobleLip/RepositoryCount/blob/main/Counter.png)
